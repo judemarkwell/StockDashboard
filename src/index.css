@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+/* Optional small polish */
+@layer base {
+  html, body, #root { height: 100%; }
+}
